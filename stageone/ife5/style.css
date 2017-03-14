@@ -11,6 +11,9 @@ body{
 	background: #333333;
 	color: honeydew;
 }
+#main{
+	width: 70%;
+}
 .header ul{
 	float: right;
 	margin-top: 22px;
@@ -101,6 +104,11 @@ tr {
 	position: absolute;
 	top: 95px;
 	right: 10px;
+	background: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	box-shadow: 0 0 2px #CCCCCC;
+	padding: 6px;
+	
 }
 .right{
 	text-align: right;
